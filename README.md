@@ -1,3 +1,4 @@
+[![Support](https://img.shields.io/badge/Supported%20By-HDR%20UK-blue)](https://hdruk.ac.uk)
 # publicationKPIs
 Analyses of publication impact from multiple sources - as part of L4DA summative portfolio.
 
